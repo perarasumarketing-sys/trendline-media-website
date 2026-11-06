@@ -1,0 +1,6 @@
+{
+  "name": "Trend Line Media — Creative Advertising Agency",
+  "description": "Premium digital creative advertising agency specializing in professional video editing, AI video production, voice-over services, and graphic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
